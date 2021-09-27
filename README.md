@@ -3,7 +3,8 @@
 A hybrid C program that generates a bmp image of the mandelbrot set
 
 ### Compilation
-The program is meant for compilation on Linux systems
+The program is meant for compilation on Linux systems.
+
 To compile follow the steps below:
 - make a new build directory 
 ```
