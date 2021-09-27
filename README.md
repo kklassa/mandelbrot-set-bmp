@@ -24,4 +24,4 @@ To run the program you must specify the width of the outputted image and it's na
 ```
 ./main 1024 output.bmp
 ```
-Width size is specified in pixels and should be divisible by 4.
+Width is specified in pixels and should be divisible by 4.
