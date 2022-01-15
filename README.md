@@ -25,3 +25,7 @@ To run the program you must specify the width of the outputted image and it's na
 ./main 1024 output.bmp
 ```
 Width is specified in pixels and should be divisible by 4.
+
+
+### Output example
+![ExampleIgame](https://user-images.githubusercontent.com/74139325/149634433-174f66ff-89c5-408f-8a2e-e63e750502ef.jpg)
